@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word", "OfficeWrapper\OfficeWrapper.csproj", "{9FD4FA39-7D73-433C-BEDF-D8BC2272FA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "TestRun\TestRun.csproj", "{2F073030-62B3-49C1-8ED0-3D8DA6AC9BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD4FA39-7D73-433C-BEDF-D8BC2272FA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD4FA39-7D73-433C-BEDF-D8BC2272FA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD4FA39-7D73-433C-BEDF-D8BC2272FA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD4FA39-7D73-433C-BEDF-D8BC2272FA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F073030-62B3-49C1-8ED0-3D8DA6AC9BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F073030-62B3-49C1-8ED0-3D8DA6AC9BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F073030-62B3-49C1-8ED0-3D8DA6AC9BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F073030-62B3-49C1-8ED0-3D8DA6AC9BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
